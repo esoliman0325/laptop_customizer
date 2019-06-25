@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './src/Components';
 import App from './src/Components/App';
 
 const FEATURES = {
